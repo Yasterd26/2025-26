@@ -2,5 +2,4 @@
 
 ## Documentation
 
-Make respective folders for the electrical vertical
-
+Make respective folders for all you verticals inside the specific branch
